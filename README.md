@@ -1,0 +1,30 @@
+# WinTabsGo
+
+WinTabsGo 给 Windows 桌面窗口加上浏览器式标签。把多个窗口收成一组，用标签切换、拖放和贴靠。
+
+当前版本：**zh-2026092501**  
+维护者：zhihuikeji  
+系统：Windows 10、Windows 11
+
+本仓库目前只托管可运行的发布文件。源码还在完善，暂不提供。
+
+## 下载
+
+| 文件 | 用途 |
+|------|------|
+| [WinTabsGo-zh-2026092501.msi](https://github.com/yueboke/WinTabsGo/releases/download/zh-2026092501/WinTabsGo-zh-2026092501.msi) | 安装包。按向导安装，默认目录是 `C:\Program Files\WinTabsGo` |
+| [WinTabsGo-zh-2026092501.zip](https://github.com/yueboke/WinTabsGo/releases/download/zh-2026092501/WinTabsGo-zh-2026092501.zip) | 免安装包。解压后运行其中的 `WinTabsGo.exe` |
+
+安装包在 Windows 里登记的版本号是 `26.09.25.1`。托盘和设置窗口显示的版本是 `zh-2026092501`。
+
+## 文档
+
+- [使用说明](使用说明.md)：安装、第一次使用、设置保存位置
+- [开发日志](version.md)：本版本在上游 WindowTabs 之上新增和修复的内容。不含上游逐版历史
+- [版权声明](LICENSE.txt)：MIT 许可证
+
+## 来源
+
+WinTabsGo 在上游项目 WindowTabs 的基础上继续开发。上游至 ss_2026.09.21。原作者 Maurice Flanagan，ss_ 线维护者 Satoshi Yamamoto。本仓库由 zhihuikeji 维护。
+
+版权：Copyright (c) 2018 Maurice Flanagan；Copyright (c) 2026 zhihuikeji。
