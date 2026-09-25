@@ -10,8 +10,8 @@ Download the installer or the portable package from the release page. Use one of
 
 | File | Purpose |
 |------|---------|
-| [WinTabsGo-zh-2026092501.msi](https://github.com/yueboke/WinTabsGo/releases/download/zh-2026092501/WinTabsGo-zh-2026092501.msi) | Installer. The default folder is `C:\Program Files\WinTabsGo` |
-| [WinTabsGo-zh-2026092501.zip](https://github.com/yueboke/WinTabsGo/releases/download/zh-2026092501/WinTabsGo-zh-2026092501.zip) | Portable package. Unzip it and run `WinTabsGo.exe` |
+| [WinTabsGo-zh-2026092501.msi](https://github.com/zhihuikeji-1994/WinTabsGo/releases/download/zh-2026092501/WinTabsGo-zh-2026092501.msi) | Installer. The default folder is `C:\Program Files\WinTabsGo` |
+| [WinTabsGo-zh-2026092501.zip](https://github.com/zhihuikeji-1994/WinTabsGo/releases/download/zh-2026092501/WinTabsGo-zh-2026092501.zip) | Portable package. Unzip it and run `WinTabsGo.exe` |
 | `README.md` | Release notes in Chinese. English is `README_English.md` |
 | `Usage.md` | This file. Chinese is `使用说明.md` |
 | `version.md` | Changelog in Chinese. English is `version_English.md` |

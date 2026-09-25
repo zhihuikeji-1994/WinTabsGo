@@ -14,8 +14,8 @@ This repository currently hosts the runnable release only. The source is still b
 
 | File | Purpose |
 |------|---------|
-| [WinTabsGo-zh-2026092501.msi](https://github.com/yueboke/WinTabsGo/releases/download/zh-2026092501/WinTabsGo-zh-2026092501.msi) | Installer. The default folder is `C:\Program Files\WinTabsGo` |
-| [WinTabsGo-zh-2026092501.zip](https://github.com/yueboke/WinTabsGo/releases/download/zh-2026092501/WinTabsGo-zh-2026092501.zip) | Portable package. Unzip it and run `WinTabsGo.exe` |
+| [WinTabsGo-zh-2026092501.msi](https://github.com/zhihuikeji-1994/WinTabsGo/releases/download/zh-2026092501/WinTabsGo-zh-2026092501.msi) | Installer. The default folder is `C:\Program Files\WinTabsGo` |
+| [WinTabsGo-zh-2026092501.zip](https://github.com/zhihuikeji-1994/WinTabsGo/releases/download/zh-2026092501/WinTabsGo-zh-2026092501.zip) | Portable package. Unzip it and run `WinTabsGo.exe` |
 
 Windows records the installer version as `26.09.25.1`. The tray icon and the Settings window show `zh-2026092501`.
 
