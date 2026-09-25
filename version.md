@@ -1,5 +1,7 @@
 # WinTabsGo
 
+**语言：** **中文** | [English](version_English.md)
+
 版本 zh-2026092501。维护者 zhihuikeji。
 
 本文件只记录 zh-2026092501 在上游 WindowTabs（至 ss_2026.09.21，原作者 Maurice Flanagan，ss_ 线维护者 Satoshi Yamamoto）之上新增和修复的内容，不含上游逐版历史。

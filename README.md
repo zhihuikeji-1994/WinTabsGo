@@ -1,5 +1,7 @@
 # WinTabsGo
 
+**语言：** **中文** | [English](README_English.md)
+
 WinTabsGo 给 Windows 桌面窗口加上浏览器式标签。把多个窗口收成一组，用标签切换、拖放和贴靠。
 
 当前版本：**zh-2026092501**  
@@ -19,9 +21,9 @@ WinTabsGo 给 Windows 桌面窗口加上浏览器式标签。把多个窗口收�
 
 ## 文档
 
-- [使用说明](使用说明.md)：安装、第一次使用、设置保存位置
-- [开发日志](version.md)：本版本在上游 WindowTabs 之上新增和修复的内容。不含上游逐版历史
-- [版权声明](LICENSE.txt)：MIT 许可证
+- [使用说明](使用说明.md)：安装、第一次使用、设置保存位置。英文见 [Usage](Usage.md)
+- [开发日志](version.md)：本版本在上游 WindowTabs 之上新增和修复的内容。不含上游逐版历史。英文见 [version_English.md](version_English.md)
+- [版权声明](版权声明.md)：中文说明。具有法律效力的许可证全文是英文 [LICENSE.txt](LICENSE.txt)
 
 ## 来源
 
