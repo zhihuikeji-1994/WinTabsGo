@@ -4,7 +4,7 @@
 
 WinTabsGo 给 Windows 桌面窗口加上浏览器式标签。把多个窗口收成一组，用标签切换、拖放和贴靠。
 
-当前版本：**zh_2026.09.26.3**  
+当前版本：**zh_2026.09.26.6**  
 维护者：zhihuikeji  
 系统：Windows 10、Windows 11
 
@@ -14,10 +14,10 @@ WinTabsGo 给 Windows 桌面窗口加上浏览器式标签。把多个窗口收�
 
 | 文件 | 用途 |
 |------|------|
-| [WinTabsGo-zh_2026.09.26.3.msi](https://github.com/zhihuikeji007/WinTabsGo/releases/download/zh_2026.09.26.3/WinTabsGo-zh_2026.09.26.3.msi) | 安装包。按向导安装，默认目录是 `C:\Program Files\WinTabsGo` |
-| [WinTabsGo-zh_2026.09.26.3.zip](https://github.com/zhihuikeji007/WinTabsGo/releases/download/zh_2026.09.26.3/WinTabsGo-zh_2026.09.26.3.zip) | 免安装包。解压后运行其中的 `WinTabsGo.exe` |
+| [WinTabsGo-zh_2026.09.26.6.msi](https://github.com/zhihuikeji007/WinTabsGo/releases/download/zh_2026.09.26.6/WinTabsGo-zh_2026.09.26.6.msi) | 安装包。按向导安装，默认目录是 `C:\Program Files\WinTabsGo` |
+| [WinTabsGo-zh_2026.09.26.6.zip](https://github.com/zhihuikeji007/WinTabsGo/releases/download/zh_2026.09.26.6/WinTabsGo-zh_2026.09.26.6.zip) | 免安装包。解压后运行其中的 `WinTabsGo.exe` |
 
-安装包在 Windows 里登记的版本号是 `26.09.26.3`。托盘和设置窗口显示的版本是 `zh_2026.09.26.3`。
+安装包在 Windows 里登记的版本号是 `26.09.26.6`。托盘和设置窗口显示的版本是 `zh_2026.09.26.6`。
 
 ## 文档
 

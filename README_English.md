@@ -4,7 +4,7 @@
 
 WinTabsGo adds browser-style tabs to desktop windows on Windows. It gathers windows into one group so you can switch, drag, and snap them from the tabs.
 
-Current version: **zh_2026.09.26.3**  
+Current version: **zh_2026.09.26.6**  
 Maintainer: zhihuikeji  
 Systems: Windows 10 and Windows 11
 
@@ -14,10 +14,10 @@ This repository currently hosts the runnable release only. The source is still b
 
 | File | Purpose |
 |------|---------|
-| [WinTabsGo-zh_2026.09.26.3.msi](https://github.com/zhihuikeji007/WinTabsGo/releases/download/zh_2026.09.26.3/WinTabsGo-zh_2026.09.26.3.msi) | Installer. The default folder is `C:\Program Files\WinTabsGo` |
-| [WinTabsGo-zh_2026.09.26.3.zip](https://github.com/zhihuikeji007/WinTabsGo/releases/download/zh_2026.09.26.3/WinTabsGo-zh_2026.09.26.3.zip) | Portable package. Unzip it and run `WinTabsGo.exe` |
+| [WinTabsGo-zh_2026.09.26.6.msi](https://github.com/zhihuikeji007/WinTabsGo/releases/download/zh_2026.09.26.6/WinTabsGo-zh_2026.09.26.6.msi) | Installer. The default folder is `C:\Program Files\WinTabsGo` |
+| [WinTabsGo-zh_2026.09.26.6.zip](https://github.com/zhihuikeji007/WinTabsGo/releases/download/zh_2026.09.26.6/WinTabsGo-zh_2026.09.26.6.zip) | Portable package. Unzip it and run `WinTabsGo.exe` |
 
-Windows records the installer version as `26.09.26.3`. The tray icon and the Settings window show `zh_2026.09.26.3`.
+Windows records the installer version as `26.09.26.6`. The tray icon and the Settings window show `zh_2026.09.26.6`.
 
 ## Documents
 

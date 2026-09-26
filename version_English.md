@@ -2,25 +2,26 @@
 
 **Language:** **English** | [中文](version.md)
 
-Version zh_2026.09.26.3. Maintainer: zhihuikeji.
+Version zh_2026.09.26.6. Maintainer: zhihuikeji.
 
-This file records only what zh_2026.09.26.3 adds and fixes on top of upstream WindowTabs (through ss_2026.09.21; original author Maurice Flanagan; ss_ line maintained by Satoshi Yamamoto). It does not include the upstream changelog.
+This file records only what zh_2026.09.26.6 adds and fixes on top of upstream WindowTabs (through ss_2026.09.21; original author Maurice Flanagan; ss_ line maintained by Satoshi Yamamoto). It does not include the upstream changelog.
+
+## version zh_2026.09.26.6
+
+- The tab context menu ends with About WinTabsGo, and the tray menu shows the same item under Close WinTabsGo. The Chinese interface says 关于WinTabsGo.
+- The About window follows the black or white theme. It is larger, with section headings, version lines, and space around the text.
+- The About window keeps a single thin scrollbar. Its track uses the same color as the text, with no white frame.
 
 ## version zh_2026.09.26.3
 
-On top of zh_2026.09.26.2. Windows records the installer version as 26.09.26.3. The interface shows zh_2026.09.26.3.
 
 - After the screen-ratio menu opens, moving the pointer away without entering the menu closes it. Moving onto another tab then switches by hover, without an extra click.
 
 ## version zh_2026.09.26.2
 
-On top of zh_2026.09.26.1. Windows records the installer version as 26.09.26.2. The interface shows zh_2026.09.26.2.
-
 - The screen-ratio menu adds full screen. When the window is not full screen, the item says Full screen and uses the window's own top-right maximize button. When it is already full screen, the item says Exit full screen and uses that button's restore command. If the group still has a Remote Desktop in exclusive mode, leaving full screen is blocked and the existing warning is shown. The Chinese interface says 全屏 and 退出全屏.
 
 ## version zh_2026.09.26.1
-
-On top of zh-2026092501. Windows records the installer version as 26.09.26.1. The interface shows zh_2026.09.26.1.
 
 - When an ordinary page goes full screen, Remote Desktop windows in the same group only stretch their frames over that area. They stay ordinary windows and do not enter exclusive mode.
 - Switch to a Remote Desktop, then click its own top-right button, to put that one window into exclusive mode. The other Remote Desktop windows in the group do not follow. Each one has to be selected and clicked on its own.
@@ -36,7 +37,6 @@ On top of zh-2026092501. Windows records the installer version as 26.09.26.1. Th
 
 - The product name is WinTabsGo. The tray icon, the Settings window, and the settings file all show zh-2026092501.
 - Settings are stored in `%APPDATA%\WinTabsGo`. An old `%APPDATA%\WindowTabs` folder is not read or copied.
-- Windows records the installer version as 26.09.25.1. Windows Installer only accepts a numeric version. The interface still shows zh-2026092501.
 - The online update check has been removed, so the program can run on a private network or with no network.
 
 ### Added on top of the upstream program
