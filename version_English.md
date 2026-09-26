@@ -2,9 +2,21 @@
 
 **Language:** **English** | [中文](version.md)
 
-Version zh_2026.09.26.1. Maintainer: zhihuikeji.
+Version zh_2026.09.26.3. Maintainer: zhihuikeji.
 
-This file records only what zh_2026.09.26.1 adds and fixes on top of upstream WindowTabs (through ss_2026.09.21; original author Maurice Flanagan; ss_ line maintained by Satoshi Yamamoto). It does not include the upstream changelog.
+This file records only what zh_2026.09.26.3 adds and fixes on top of upstream WindowTabs (through ss_2026.09.21; original author Maurice Flanagan; ss_ line maintained by Satoshi Yamamoto). It does not include the upstream changelog.
+
+## version zh_2026.09.26.3
+
+On top of zh_2026.09.26.2. Windows records the installer version as 26.09.26.3. The interface shows zh_2026.09.26.3.
+
+- After the screen-ratio menu opens, moving the pointer away without entering the menu closes it. Moving onto another tab then switches by hover, without an extra click.
+
+## version zh_2026.09.26.2
+
+On top of zh_2026.09.26.1. Windows records the installer version as 26.09.26.2. The interface shows zh_2026.09.26.2.
+
+- The screen-ratio menu adds full screen. When the window is not full screen, the item says Full screen and uses the window's own top-right maximize button. When it is already full screen, the item says Exit full screen and uses that button's restore command. If the group still has a Remote Desktop in exclusive mode, leaving full screen is blocked and the existing warning is shown. The Chinese interface says 全屏 and 退出全屏.
 
 ## version zh_2026.09.26.1
 
