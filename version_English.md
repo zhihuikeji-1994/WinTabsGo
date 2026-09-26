@@ -2,9 +2,21 @@
 
 **Language:** **English** | [中文](version.md)
 
-Version zh-2026092501. Maintainer: zhihuikeji.
+Version zh_2026.09.26.1. Maintainer: zhihuikeji.
 
-This file records only what zh-2026092501 adds and fixes on top of upstream WindowTabs (through ss_2026.09.21; original author Maurice Flanagan; ss_ line maintained by Satoshi Yamamoto). It does not include the upstream changelog.
+This file records only what zh_2026.09.26.1 adds and fixes on top of upstream WindowTabs (through ss_2026.09.21; original author Maurice Flanagan; ss_ line maintained by Satoshi Yamamoto). It does not include the upstream changelog.
+
+## version zh_2026.09.26.1
+
+On top of zh-2026092501. Windows records the installer version as 26.09.26.1. The interface shows zh_2026.09.26.1.
+
+- When an ordinary page goes full screen, Remote Desktop windows in the same group only stretch their frames over that area. They stay ordinary windows and do not enter exclusive mode.
+- Switch to a Remote Desktop, then click its own top-right button, to put that one window into exclusive mode. The other Remote Desktop windows in the group do not follow. Each one has to be selected and clicked on its own.
+- While any Remote Desktop in the group is exclusive, restoring another page or dragging its title bar does not take the group out of full screen. A warning asks you to leave exclusive mode first. The warning follows the interface language, plays the system alert sound, and appears in the center of the current screen. The heading is larger than the body, and the text is centered. Left open, it closes after six seconds. Closing it with the title-bar button or OK lets the next drag show it again immediately.
+- After the group enters full screen, the other windows in the group fill the same area. Remote Desktop windows only stretch. One enters exclusive mode only when its own top-right button is clicked. When one does, the other windows still follow into full screen.
+- Leaving Remote Desktop exclusive mode does not resize the other windows in the group.
+- The tray language menu has two items. In Chinese it shows 语言 / 英文 / 中文. In English it shows Language / English / Chinese.
+- Each tab group has a screen-ratio tab at the end of the strip. It is drawn like the other tabs and follows them to the left or the right. Click it, or rest the pointer on it, to choose 25%, 50%, or 75%. With no exclusive Remote Desktop, the window is centered on the current screen, and both its width and its height take that percentage. If the group still has an exclusive window, the size stays and the existing warning is shown. Dragging the title bar or resizing on the same screen clears the ratio. Dragging onto another screen recenters the window there.
 
 ## version zh-2026092501
 
