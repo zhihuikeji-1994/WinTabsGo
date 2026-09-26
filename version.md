@@ -2,9 +2,14 @@
 
 **语言：** **中文** | [English](version_English.md)
 
-版本 zh_2026.09.26.6。维护者 zhihuikeji。
+版本 zh_2026.09.26.7。维护者 zhihuikeji。
 
-本文件只记录 zh_2026.09.26.6 在上游 WindowTabs（至 ss_2026.09.21，原作者 Maurice Flanagan，ss_ 线维护者 Satoshi Yamamoto）之上新增和修复的内容，不含上游逐版历史。
+本文件只记录 zh_2026.09.26.7 在上游 WindowTabs（至 ss_2026.09.21，原作者 Maurice Flanagan，ss_ 线维护者 Satoshi Yamamoto）之上新增和修复的内容，不含上游逐版历史。
+
+## version zh_2026.09.26.7
+
+- 首次启动可以选择管理员权限。点「允许」后，Windows 询问一次授权。授权成功后，以后启动会自动使用管理员权限。点「以后再说」则继续以普通权限运行，标签功能受限。
+- 授权窗口说明高权限窗口会遮挡标签栏，并提示授权失败时先结束 WinTabsGo 进程，再重新启动。
 
 ## version zh_2026.09.26.6
 

@@ -2,9 +2,14 @@
 
 **Language:** **English** | [中文](version.md)
 
-Version zh_2026.09.26.6. Maintainer: zhihuikeji.
+Version zh_2026.09.26.7. Maintainer: zhihuikeji.
 
-This file records only what zh_2026.09.26.6 adds and fixes on top of upstream WindowTabs (through ss_2026.09.21; original author Maurice Flanagan; ss_ line maintained by Satoshi Yamamoto). It does not include the upstream changelog.
+This file records only what zh_2026.09.26.7 adds and fixes on top of upstream WindowTabs (through ss_2026.09.21; original author Maurice Flanagan; ss_ line maintained by Satoshi Yamamoto). It does not include the upstream changelog.
+
+## version zh_2026.09.26.7
+
+- The first start can choose administrator permission. Allow asks Windows once. After that approval, later starts use administrator permission on their own. Not now continues with ordinary permission, and tab features stay limited.
+- The consent window explains that an elevated window covers the tab strip, and says to end the WinTabsGo process and start again if authorization fails.
 
 ## version zh_2026.09.26.6
 
