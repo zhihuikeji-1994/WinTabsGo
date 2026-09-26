@@ -2,9 +2,13 @@
 
 **Language:** **English** | [中文](version.md)
 
-Version zh_2026.09.26.7. Maintainer: zhihuikeji.
+Version zh_2026.09.26.8. Maintainer: zhihuikeji.
 
-This file records only what zh_2026.09.26.7 adds and fixes on top of upstream WindowTabs (through ss_2026.09.21; original author Maurice Flanagan; ss_ line maintained by Satoshi Yamamoto). It does not include the upstream changelog.
+This file records only what zh_2026.09.26.8 adds and fixes on top of upstream WindowTabs (through ss_2026.09.21; original author Maurice Flanagan; ss_ line maintained by Satoshi Yamamoto). It does not include the upstream changelog.
+
+## version zh_2026.09.26.8
+
+- Task Manager can show a tab. It is no longer kept off the tab list.
 
 ## version zh_2026.09.26.7
 

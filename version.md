@@ -2,9 +2,13 @@
 
 **语言：** **中文** | [English](version_English.md)
 
-版本 zh_2026.09.26.7。维护者 zhihuikeji。
+版本 zh_2026.09.26.8。维护者 zhihuikeji。
 
-本文件只记录 zh_2026.09.26.7 在上游 WindowTabs（至 ss_2026.09.21，原作者 Maurice Flanagan，ss_ 线维护者 Satoshi Yamamoto）之上新增和修复的内容，不含上游逐版历史。
+本文件只记录 zh_2026.09.26.8 在上游 WindowTabs（至 ss_2026.09.21，原作者 Maurice Flanagan，ss_ 线维护者 Satoshi Yamamoto）之上新增和修复的内容，不含上游逐版历史。
+
+## version zh_2026.09.26.8
+
+- 任务管理器可以挂上标签。原先固定不给 taskmgr.exe 加标签，现已取消。
 
 ## version zh_2026.09.26.7
 
